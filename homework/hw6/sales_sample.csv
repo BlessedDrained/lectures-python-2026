@@ -1,0 +1,11 @@
+# выгрузка продаж
+date,category,product,qty,price
+
+2026-10-01,books,Dune,2,500
+2026-10-01,food,tea,3,120.5
+2026-10-02,books,Solaris,1,450
+# комментарий посреди файла
+2026-10-02,food,coffee,много,300
+2026-10-02,toys,ball,4,250
+2026-10-03,food,tea,10,120.5
+2026-10-03,books,Dune
