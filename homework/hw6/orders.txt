@@ -1,0 +1,6 @@
+anna,100
+bob,50
+
+anna,700
+kate,300
+bob,30
